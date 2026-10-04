@@ -5,6 +5,73 @@ Every command is explained in plain, easy words.
 
 ---
 
+## 🤔 What is Git?
+
+**Git** is a tool on your computer that **saves the history of your project**.
+
+Think of it like a **save button in a video game** 🎮. Every time you save (commit), Git remembers exactly how your files looked at that moment. If you break something later, you can go back to an older save.
+
+**Why use Git?**
+- ⏪ **Go back in time** — undo mistakes and return to a working version
+- 📜 **See history** — know what changed, when, and who changed it
+- 🌿 **Try new ideas safely** — use branches to experiment without breaking your main code
+- 👥 **Work in a team** — many people can work on the same project without overwriting each other
+
+> 💡 Git works **offline** on your own computer. You don't need the internet to use it.
+
+---
+
+## 🌐 What is GitHub?
+
+**GitHub** is a **website** that stores your Git projects **online** (in the cloud) ☁️.
+
+Think of it like **Google Drive for code**. Git saves your history on your computer, and GitHub keeps a copy on the internet.
+
+**Why use GitHub?**
+- 💾 **Backup** — if your laptop breaks, your code is still safe online
+- 🤝 **Teamwork** — share code with teammates and review each other's work
+- 🌍 **Portfolio** — show your projects to employers and clients
+- 🚀 **Deploy** — connect to services like Vercel or Netlify to put your website live
+
+---
+
+## ⚖️ Git vs GitHub — What's the Difference?
+
+| | **Git** | **GitHub** |
+|---|---|---|
+| What is it? | A tool (program) | A website (service) |
+| Where does it live? | On your computer 💻 | On the internet ☁️ |
+| Needs internet? | ❌ No | ✅ Yes |
+| Main job | Track and save changes | Store and share projects online |
+| Made by | Linus Torvalds (2005) | GitHub Inc. (owned by Microsoft) |
+
+**Simple way to remember:**
+
+```
+Git    = the camera 📷  (takes snapshots of your code)
+GitHub = the photo album online 🖼️  (stores and shares those snapshots)
+```
+
+You use **Git** to save your work, then **push** it to **GitHub** to keep it online.
+
+---
+
+## 📖 Words You Will See
+
+| Word | Simple meaning |
+|---|---|
+| **Repository (repo)** | Your project folder that Git is tracking |
+| **Commit** | A saved snapshot of your project |
+| **Staging area** | The "waiting room" for files before you commit them |
+| **Branch** | A separate copy of your code to work on new features safely |
+| **Remote** | The online version of your repo (on GitHub) |
+| **Push** | Upload your commits to GitHub |
+| **Pull** | Download new changes from GitHub |
+| **Clone** | Copy a whole project from GitHub to your computer |
+| **Merge** | Combine changes from one branch into another |
+
+---
+
 ## 📦 Step 0: Install Git and Check It
 
 Download Git from: https://git-scm.com/downloads
